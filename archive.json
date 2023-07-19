@@ -1,0 +1,22 @@
+{
+    "archive_slots": {
+        "1": {
+            "billboard_max_item_num": 10, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 1, 
+            "name": "\u7ae0\u8282ID", 
+            "type": 2, 
+            "value": 1
+        }, 
+        "2": {
+            "billboard_max_item_num": 10, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 2, 
+            "name": "\u5173\u5361ID", 
+            "type": 2, 
+            "value": 1
+        }
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "trigger_dict": {
+        "693411850": {
+            "action": [
+                {
+                    "action_type": "SET_UI_COMP_VISIBLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "feeb3eb9-ce2b-4abc-a4b9-5b9fa9621454"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 693411850000011, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "103c78b019a911eeaba700d861d56814"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 693411850000014, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SOFT_RESUME_GAME", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 693411850000018, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "CardItem0"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 693411850000002, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "kZQn3s4eEe2y+TDQQuUV9l", 
+            "p_trigger_id": null, 
+            "trigger_id": 693411850, 
+            "trigger_name": "\u5361\u724c\u9009\u62e9\u754c\u9762\u6309\u952e\u6ce8\u518c0", 
+            "valid": true
+        }, 
+        "1129787403": {
+            "action": [
+                {
+                    "action_type": "SET_UI_COMP_VISIBLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "feeb3eb9-ce2b-4abc-a4b9-5b9fa9621454"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1129787403000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "103c78b019a911eeaba700d861d56814"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 1129787403000010, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SOFT_RESUME_GAME", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 1129787403000013, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "CardItem1"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1129787403000001, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "kZQn3s4eEe2y+TDQQuUV9l", 
+            "p_trigger_id": null, 
+            "trigger_id": 1129787403, 
+            "trigger_name": "\u5361\u724c\u9009\u62e9\u754c\u9762\u6309\u952e\u6ce8\u518c1", 
+            "valid": true
+        }, 
+        "1566003212": {
+            "action": [
+                {
+                    "action_type": "SET_UI_COMP_VISIBLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "feeb3eb9-ce2b-4abc-a4b9-5b9fa9621454"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1566003212000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        3
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [], 
+                            "op_arg_enable": [], 
+                            "sub_type": "103c78b019a911eeaba700d861d56814"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 1566003212000010, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SOFT_RESUME_GAME", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 1566003212000013, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "CardItem2"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1566003212000001, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "kZQn3s4eEe2y+TDQQuUV9l", 
+            "p_trigger_id": null, 
+            "trigger_id": 1566003212, 
+            "trigger_name": "\u5361\u724c\u9009\u62e9\u754c\u9762\u6309\u952e\u6ce8\u518c2", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    693411850, 
+                    "\u5361\u724c\u9009\u62e9\u754c\u9762\u6309\u952e\u6ce8\u518c0"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1129787403, 
+                    "\u5361\u724c\u9009\u62e9\u754c\u9762\u6309\u952e\u6ce8\u518c1"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1566003212, 
+                    "\u5361\u724c\u9009\u62e9\u754c\u9762\u6309\u952e\u6ce8\u518c2"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "kZQn3s4eEe2y+TDQQuUV9l", 
+        "name": "UI"
+    }
+}

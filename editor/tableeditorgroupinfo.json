@@ -1,0 +1,42 @@
+[
+ {
+  "name": "\u7ae0\u8282\u8868", 
+  "key": "6aB-DxDHEe6plQDYYdVoFG", 
+  "group": [
+   {
+    "name": "\u7b2c\u4e00\u7ae0", 
+    "key": "nFEMMA2rEe6g8gDYYdVoFN", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       4, 
+       "\u5173\u53611-1\u6570\u636e"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       2, 
+       "\u5173\u53611-2\u6570\u636e"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       6, 
+       "\u5173\u53611-3\u6570\u636e"
+      ]
+     }
+    ]
+   }
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "\u968f\u4ece\u6570\u636e"
+  ]
+ }
+]

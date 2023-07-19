@@ -1,0 +1,99 @@
+{
+    "local_variable": {
+        "1278042113": {
+            "variable_dict": {
+                "PROJECTILE_ENTITY": {
+                    "#\u5149\u73af\u7279\u6548": 0
+                }, 
+                "UNIT_GROUP": {
+                    "#\u5355\u6b21\u8303\u56f4\u5185\u5355\u4f4d\u7ec4": [], 
+                    "#\u603b\u8303\u56f4\u5355\u4f4d\u7ec4": []
+                }
+            }, 
+            "variable_length_dict": {
+                "#\u5149\u73af\u7279\u6548": 0, 
+                "#\u5355\u6b21\u8303\u56f4\u5185\u5355\u4f4d\u7ec4": 0, 
+                "#\u603b\u8303\u56f4\u5355\u4f4d\u7ec4": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "1278042113": {
+            "action": [
+                {
+                    "action_type": "ADD_MODIFIER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "CUR_UNIT"
+                        }, 
+                        {
+                            "arg_type": 100046, 
+                            "args_list": [
+                                134232977
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1278042113000015, 
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        null, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                800.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        null, 
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        true, 
+                        false, 
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1278042113000002, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 134265820, 
+            "p_trigger_id": null, 
+            "trigger_id": 1278042113, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1278042113, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134265820, 
+            "name": "134265820"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

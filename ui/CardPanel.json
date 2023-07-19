@@ -1,0 +1,1078 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        178.636474609375, 
+                        309.363525390625, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 100446, 
+                    "name": "BG", 
+                    "opacity": 0.65, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1135.999755859375, 
+                            696.9996337890625
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            48.07447374287073, 
+                            50.50721983978714
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2749.000015258789, 
+                            1394.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "672dbc17-ef7f-4379-ba45-9931f579f9b5"
+                }, 
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKSongW9", 
+                            80
+                        ]
+                    }, 
+                    "name": "Title", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1182.0, 
+                            1105.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.02116212699911, 
+                            80.07246376811594
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            656.0, 
+                            100
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u9009\u62e9\u4f60\u7684\u5f3a\u5316", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "7332e549-f582-4673-993d-3a8fa3a4af85"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "background_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            3, 
+                                            3, 
+                                            3, 
+                                            255
+                                        ]
+                                    }, 
+                                    "camera_mode": 1, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "focus_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            0.0, 
+                                            1.32, 
+                                            0.0
+                                        ]
+                                    }, 
+                                    "name": "model_2", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            429.5, 
+                                            550.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            49.999998223656746, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            669.0, 
+                                            864.0000305175781
+                                        ]
+                                    }, 
+                                    "type": 6, 
+                                    "uid": "fc82d324-883f-41d8-b1d1-1cc652c21d57"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            2, 
+                                            2, 
+                                            255
+                                        ]
+                                    }, 
+                                    "event_list": [], 
+                                    "image": 100047, 
+                                    "name": "image_11", 
+                                    "opacity": 0.78, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            430.0, 
+                                            200.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.05820543928382, 
+                                            18.1653042688465
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            669.0000305175781, 
+                                            162.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "88933089-645b-459b-b7ab-7c5b570a6ac5"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            16
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            45
+                                        ]
+                                    }, 
+                                    "line_space": 10, 
+                                    "name": "label_title", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            433.0, 
+                                            240.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.407448733046266, 
+                                            21.798365122615802
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            651.0, 
+                                            62.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u5927\u5723\u9a7e\u5230", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "c9d24cdf-c0cf-4f8a-b512-be2c8dab752a"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            35
+                                        ]
+                                    }, 
+                                    "line_space": 10, 
+                                    "name": "label_des", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            430.0, 
+                                            169.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.05820543928382, 
+                                            15.349682107175294
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            651.0, 
+                                            81.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u83b7\u5f97\u968f\u4ece\u795e\u5c06x1\n", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "9970f593-3310-4bbb-89d1-8d198a55d063"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKSongW9", 
+                                                    50
+                                                ]
+                                            }, 
+                                            "name": "type_txt", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    87.0, 
+                                                    48.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    161.0, 
+                                                    100
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u53d1\u73b0", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "8217d3e3-eca9-47fc-8aa9-fabe7bf8380a"
+                                        }
+                                    ], 
+                                    "color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132, 
+                                            249, 
+                                            68, 
+                                            255
+                                        ]
+                                    }, 
+                                    "event_list": [], 
+                                    "image": 131266, 
+                                    "name": "image_type", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            183.0, 
+                                            932.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            21.303840919509163, 
+                                            84.6503178928247
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            174.0, 
+                                            96.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "dd8bf925-c8cb-4387-8170-e28d8a5e6d21"
+                                }
+                            ], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "CardItem0", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
+                            "image": 133991, 
+                            "name": "CardItem1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    347.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    5.777007561034165, 
+                                    41.211401425178146
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    859.0000305175781, 
+                                    1101.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "a499e187-3c17-4609-91d4-77ff50be366c"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "background_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            3, 
+                                            3, 
+                                            3, 
+                                            255
+                                        ]
+                                    }, 
+                                    "camera_mode": 1, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "focus_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            0.0, 
+                                            1.32, 
+                                            0.0
+                                        ]
+                                    }, 
+                                    "name": "model_2", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            429.5, 
+                                            550.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            49.999998223656746, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            669.0, 
+                                            864.0000305175781
+                                        ]
+                                    }, 
+                                    "type": 6, 
+                                    "uid": "79cad0e7-220e-4e03-9255-0cd6ad634dff"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            2, 
+                                            2, 
+                                            255
+                                        ]
+                                    }, 
+                                    "event_list": [], 
+                                    "image": 100047, 
+                                    "name": "image_11", 
+                                    "opacity": 0.78, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            430.0, 
+                                            200.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.05820543928382, 
+                                            18.1653042688465
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            669.0000305175781, 
+                                            162.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "3de44445-8ffe-43ab-bee0-ef13635ae414"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            16
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            45
+                                        ]
+                                    }, 
+                                    "line_space": 10, 
+                                    "name": "label_title", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            435.00006103515625, 
+                                            231.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.640284700927566, 
+                                            21.026339691189825
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            651.0, 
+                                            62.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u5927\u5723\u9a7e\u5230", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "e7337bdd-b8b6-46ba-bc79-c784e8d389e8"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            35
+                                        ]
+                                    }, 
+                                    "line_space": 10, 
+                                    "name": "label_des", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            431.0, 
+                                            161.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.174619870537974, 
+                                            14.623069936421434
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            651.0, 
+                                            81.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u83b7\u5f97\u968f\u4ece\u795e\u5c06x1\n", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "452d6831-9283-4c7c-9e36-db29b4c6b9e3"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKSongW9", 
+                                                    50
+                                                ]
+                                            }, 
+                                            "name": "type_txt", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    87.0, 
+                                                    48.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    161.0, 
+                                                    100
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u53d1\u73b0", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "bb9ec70d-aca1-4eee-85fc-c96dc8cfc939"
+                                        }
+                                    ], 
+                                    "color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132, 
+                                            249, 
+                                            68, 
+                                            255
+                                        ]
+                                    }, 
+                                    "event_list": [], 
+                                    "image": 131266, 
+                                    "name": "image_type", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            183.0, 
+                                            931.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            21.303840919509163, 
+                                            84.55949137148048
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            174.0, 
+                                            96.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "c567fbea-818a-47f5-8eec-f91fd26ecb53"
+                                }
+                            ], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "CardItem1", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
+                            "image": 133991, 
+                            "name": "CardItem2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    869.0, 
+                                    350.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.2021957053869, 
+                                    41.56769596199525
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    859.0000305175781, 
+                                    1101.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "422e8426-11bb-4b6d-9828-c04fbceb034b"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "background_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            3, 
+                                            3, 
+                                            3, 
+                                            255
+                                        ]
+                                    }, 
+                                    "camera_mode": 1, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "focus_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            0.0, 
+                                            1.32, 
+                                            0.0
+                                        ]
+                                    }, 
+                                    "name": "model_2", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            429.5, 
+                                            550.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            49.999998223656746, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            669.0, 
+                                            864.0000305175781
+                                        ]
+                                    }, 
+                                    "type": 6, 
+                                    "uid": "e230192b-8536-4515-8acb-30914020d130"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            2, 
+                                            2, 
+                                            255
+                                        ]
+                                    }, 
+                                    "event_list": [], 
+                                    "image": 100047, 
+                                    "name": "image_11", 
+                                    "opacity": 0.78, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            430.0, 
+                                            200.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.05820543928382, 
+                                            18.1653042688465
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            669.0000305175781, 
+                                            162.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "a598e341-86bc-4ac3-9ea8-34cb4426d37c"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            16
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            45
+                                        ]
+                                    }, 
+                                    "line_space": 10, 
+                                    "name": "label_title", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            424.0001220703125, 
+                                            231.50006103515625
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            49.35973306250494, 
+                                            21.02634523480075
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            651.0, 
+                                            62.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u5927\u5723\u9a7e\u5230", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "051ee86e-bec7-45c7-b51c-dbd3d6b4669c"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            35
+                                        ]
+                                    }, 
+                                    "line_space": 10, 
+                                    "name": "label_des", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            430.0, 
+                                            160.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.05820543928382, 
+                                            14.532243415077204
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            651.0, 
+                                            81.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u83b7\u5f97\u968f\u4ece\u795e\u5c06x1\n", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "a8479383-804d-4713-a2ba-3be33ec99a6b"
+                                }, 
+                                {
+                                    "children": [
+                                        {
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "HKSongW9", 
+                                                    50
+                                                ]
+                                            }, 
+                                            "name": "type_txt", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    87.0, 
+                                                    48.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    161.0, 
+                                                    100
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "\u53d1\u73b0", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "e371fb0e-cd51-4ba1-b4d2-137ccfbcc337"
+                                        }
+                                    ], 
+                                    "color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            132, 
+                                            249, 
+                                            68, 
+                                            255
+                                        ]
+                                    }, 
+                                    "event_list": [], 
+                                    "image": 131266, 
+                                    "name": "image_type", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            183.0, 
+                                            933.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            21.303840919509163, 
+                                            84.74114441416893
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            174.0, 
+                                            96.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "11700108-5288-414b-9a1b-5ab08143c545"
+                                }
+                            ], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "CardItem2", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
+                            "image": 133991, 
+                            "name": "CardItem3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1632.0, 
+                                    347.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    94.28076339607757, 
+                                    41.211401425178146
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    859.0000305175781, 
+                                    1101.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "4929c102-63c2-405f-9b6e-66d92f74655c"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "Cards", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1180.999755859375, 
+                            694.4996337890625
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.97883270709658, 
+                            50.32606041949729
+                        ]
+                    }, 
+                    "scale": {
+                        "__tuple__": true, 
+                        "items": [
+                            0.8, 
+                            0.8
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1730.999984741211, 
+                            842.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "42a330aa-ad6a-41f2-81a9-2592b4dd1ff9"
+                }
+            ], 
+            "event_list": [], 
+            "name": "root", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    516.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    47.77777777777778
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    2362.9998779296875, 
+                    1380.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "d89c7a7f-391f-4604-8362-b1c3a8b598d2"
+        }
+    ], 
+    "name": "CardPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "feeb3eb9-ce2b-4abc-a4b9-5b9fa9621454", 
+    "visible": false, 
+    "zorder": 400
+}
